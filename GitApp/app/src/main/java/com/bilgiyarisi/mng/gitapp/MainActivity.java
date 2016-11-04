@@ -17,7 +17,7 @@ public class MainActivity extends AppCompatActivity {
         txt3 = (TextView) findViewById(R.id.txt3);
 
         txt1.setText("BÜŞRA");
-        txt2.setText("CAN");
+        txt2.setText("SAVIOLA");
         txt3.setText("OKAN");
 
     }
